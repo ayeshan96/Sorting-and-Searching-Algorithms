@@ -5,7 +5,7 @@
 # Sorting algorithms with strings
 
 * Create a C++ class named MySortStrings and implement the following sorting algorithms as member functions. Each of the sorting algorithms should be able to sort strings.
-  <ol>
+  <ul>
     <li>
 	Selection sort
 </li>
@@ -21,7 +21,7 @@ Bubble sort
 <li>	
 Quicksort
     </li>
-  </ol>
+  </ul>
 
 
 # Searching algorithms
