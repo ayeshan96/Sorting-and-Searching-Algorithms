@@ -17,7 +17,9 @@
 ### Searching algorithms
 
 * Create a C++ class named MySearch and implement the following searching algorithms as member functions.
-	1. Linear search
-	2. Binary search
-	3. Interpolation search
-	4. Jump search
+	<ol>
+	1. Linear search<br />
+	2. Binary search<br />
+	3. Interpolation search<br />
+	4. Jump search<br />
+</ol>
