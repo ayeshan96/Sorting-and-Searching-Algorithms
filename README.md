@@ -8,11 +8,20 @@
   <ol>
     <li>
 	Selection sort
+</li>
+<li>
 	Insertion sort
-	Bubble sort
+</li>
+<li>	
+Bubble sort
+</li>
+<li>
 	Merge sort
-	Quicksort
-    <li>
+</li>
+<li>	
+Quicksort
+    </li>
+  </ol>
 
 
 # Searching algorithms
